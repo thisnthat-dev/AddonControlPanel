@@ -1,0 +1,8 @@
+package-as: WowUp
+enable-toc-creation: yes
+
+ignore:
+    - .github
+    - .gitignore
+    - README.md
+    - CODE_OF_CONDUCT.md
